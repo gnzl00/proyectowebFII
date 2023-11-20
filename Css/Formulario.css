@@ -1,0 +1,149 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{height: 100px;
+text-align: center;
+padding: 30px;
+
+color:white;
+background-color: #495C83;
+}
+.h1{font-family: 'Roboto Condensed', sans-serif;
+    font-size: 100px;
+    position: relative;
+    top: -35px;
+}
+
+nav{
+    float: left;
+    width: 15%;
+    height: 650px;
+    background-color: #7A86B6;
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 100px;
+}
+
+nav li a{
+    background-color: #A8A4CE;
+    color: white;
+    margin: 0px;
+    padding: 10px 15px;
+    text-decoration: none;
+    display: block;
+}
+
+nav li a:hover{
+    background-color:#C8B6E2;
+}
+
+article{
+    float: left;
+    width: 85%;
+    height: 650px;
+    text-align: center;
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.formulario{
+    background-color: white;
+    width: 650px;
+    height: 350px;
+    border-radius: 1em;
+    padding: 3.5px 1.5px;
+    position: relative;
+    left: 200px;
+    top: 140px;
+}
+
+.contenedor{
+    display: grid;
+    gap: 2px;
+}
+
+.h2{
+    color: black;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+}
+
+.nombre{
+    width: 500px;
+    height: 50px;
+}
+
+.email{
+    width: 500px;
+    height: 50px;
+}
+
+.mensaje{
+    width: 500px;
+    height: 100px;
+    resize: none;
+}
+
+.boton{
+    width: 300px;
+    height: 35px;
+    background-color: #C8B6E2;
+    font-family: 'Inter', sans-serif;
+    cursor: pointer;
+    border: none;
+}
+
+footer{
+    float: left;
+    width: 1224.5px;
+    height: 120px;
+    background-color: #A8A4CE;
+}
+
+.imagen3 {
+    width: 90px;
+    height: 70px;
+    position:absolute;
+    bottom: -225px;
+    left: 30px;
+}
+
+.imagen4 {
+    width: 90px;
+    height: 70px;
+    position:absolute;
+    bottom:-225px;
+    left: 130px;
+}
+
+.imagen5 {
+    width: 90px;
+    height: 70px;
+    position:absolute;
+    bottom:-225px;
+    left: 230px;
+}
+
+.imagen6 {
+    width: 90px;
+    height: 70px;
+    position:absolute;
+    bottom:-225px;
+    left: 330px;
+}
+
+.imagen7{
+    position:absolute;
+    top: 5px;
+    left: 65px;
+    width: 180px;
+    height: 90px;
+}
+    
