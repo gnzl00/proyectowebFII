@@ -5,6 +5,6 @@ En este trabajo realizaré una pagina web que tendra como tema principal la comp
 
 PROBLEMAS DURTANTE EL DESARROLLO:
 1º Poner correctamente el codigo para que utilice las fotografias, ya que se visualizaban correctamente en local pero no era capaz de hacer que se vieran visitando la pagina web fuera de mi equipo.
-2º
+2º A la hora de adaptar las medidas para poder cuadrar la tabla referente a la informacion del curriculum he tenido muhcos problemas con las resolucoines de las pantallas y el tamaño en pixeles
 
 (CONCLUSIONES)
